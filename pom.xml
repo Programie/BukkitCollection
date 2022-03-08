@@ -9,7 +9,7 @@
     </parent>
 
     <groupId>com.selfcoders</groupId>
-    <artifactId>bollection</artifactId>
+    <artifactId>collection</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
