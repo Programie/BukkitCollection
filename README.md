@@ -6,7 +6,9 @@ It is basically a place where features can grow up till they are mature enough t
 
 ## Contained features
 
-### Click on inventory blocks (chests, barrels, etc.) to retrieve the content
+### ChestClick2Inventory
+
+Enable in config.yml: `ChestClick2Inventory.enabled: true`
 
 Clicking on an inventory block like a chest or barrel will transfer an item from it to the player. Sneaking while clicking on the block transfers a whole stack to the player's inventory.
 

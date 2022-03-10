@@ -15,7 +15,7 @@ import org.bukkit.inventory.PlayerInventory;
 
 import java.util.Map;
 
-public class EventListener implements Listener {
+public class ChestClick2Inventory implements Listener {
     @EventHandler
     public void onPlayerInteractEvent(PlayerInteractEvent event) {
         if (event.getAction() != Action.LEFT_CLICK_BLOCK) {
