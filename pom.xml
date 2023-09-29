@@ -15,10 +15,10 @@
 
     <name>Collection</name>
     <description>A collection of small features</description>
-    <url>https://gitlab.com/Programie/BukkitCollection</url>
+    <url>https://github.com/Programie/BukkitCollection</url>
 
     <scm>
-        <developerConnection>scm:git:ssh://git@gitlab.com/Programie/BukkitCollection.git</developerConnection>
+        <developerConnection>scm:git:ssh://git@github.com/Programie/BukkitCollection.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 

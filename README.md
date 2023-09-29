@@ -1,6 +1,7 @@
 # Bukkit Collection
 
-[![download from GitLab](https://img.shields.io/badge/Download-blue?logo=gitlab)](https://gitlab.com/Programie/BukkitCollection/-/jobs/artifacts/master/raw/target/Collection.jar?job=snapshot-release)
+[![pipeline status](https://github.com/Programie/BukkitCollection/actions/workflows/build/badge.svg)](https://github.com/Programie/BukkitCollection/commits/master)
+[![download from GitHub](https://img.shields.io/badge/download-Releases-blue?logo=github)](https://github.com/Programie/BukkitCollection/releases/latest)
 
 This Minecraft Bukkit plugin provides various small features in a single plugin. Some of them might be moved to a separate plugin in the future.
 
