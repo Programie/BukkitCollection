@@ -4,4 +4,4 @@ description: '${project.description}'
 author: Programie
 website: ${project.url}
 api-version: 1.14
-main: com.selfcoders.collection.Main
+main: com.selfcoders.bukkitcollection.Main

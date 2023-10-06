@@ -1,4 +1,4 @@
-package com.selfcoders.collection;
+package com.selfcoders.bukkitcollection;
 
 import org.bukkit.configuration.file.FileConfiguration;
 import org.bukkit.plugin.PluginManager;
