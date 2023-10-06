@@ -4,11 +4,8 @@ on: push
 
 permissions:
   contents: write
-  packages: write
 
 jobs:
   build:
     uses: programie/Workflows/.github/workflows/build-minecraft-plugin.yml@main
-    with:
-      deploy_package: true
     secrets: inherit
